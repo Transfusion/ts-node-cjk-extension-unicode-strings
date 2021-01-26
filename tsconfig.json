@@ -1,0 +1,15 @@
+{
+	  "compilerOptions": {
+		      "typeRoots": [
+			            "./node_modules/@types",
+						          ],
+							      "module": "commonjs",
+								      "moduleResolution": "node",
+								          "allowSyntheticDefaultImports": true,
+									      "esModuleInterop": true,
+									          "noImplicitAny": true
+										    },
+												      "exclude": [
+													          "node_modules"
+														    ]
+}
